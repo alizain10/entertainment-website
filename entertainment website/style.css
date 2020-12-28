@@ -81,7 +81,14 @@
 	margin: 0px 10px;
 }
 .btn{
-	color: red;
+	color: white;
+	border: none;
+	outline: none;
+	padding: 10px;
+	margin: 5px 0px;
+	font-family: sans-serif;
+background-color: red;
+	
 }
  a{
   transition: all .5s;
@@ -210,6 +217,7 @@ header h1{
 	border: none;
 	font-size: 14px;
 	font-weight: bold;
+	margin-top: 20px;
 }
 
 
